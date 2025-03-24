@@ -1,7 +1,7 @@
 {
   "domain": "bancacatedral.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#434343",
+  "primary_color": "#363636",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
