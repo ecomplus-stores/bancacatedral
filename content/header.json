@@ -3,8 +3,8 @@
     "featured": [
       "/apostila-impressa/?Apostila Impressa"
     ],
-    "random": 6,
-    "full_width": false
+    "random": 10,
+    "full_width": true
   },
   "menu_all_departments": false,
   "centralized_logo": false,
