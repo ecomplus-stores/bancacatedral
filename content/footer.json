@@ -5,11 +5,40 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
-    "list": []
+    "title": "INFORMAÇÕES",
+    "list": [
+      {
+        "text": "Banca Catedral ",
+        "url": "https://www.bancacatedral.com.br/pages/sobre-a-empresa"
+      },
+      {
+        "text": "Lojas Físicas",
+        "url": "https://bancacatedral.com.br/pages/contato"
+      },
+      {
+        "text": "Como Comprar",
+        "url": "https://bancacatedral.com.br/pages/faq"
+      },
+      {
+        "text": "Formas de Envio",
+        "url": "https://bancacatedral.com.br/pages/entrega"
+      },
+      {
+        "text": "Formas de Pagamento",
+        "url": "https://bancacatedral.com.br/pages/pagamentos"
+      },
+      {
+        "url": "https://bancacatedral.com.br/pages/privacidade",
+        "text": "Segurança e Privacidade"
+      },
+      {
+        "text": "Trocas e Devoluções",
+        "url": "https://bancacatedral.com.br/pages/trocas"
+      }
+    ]
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": []
   },
