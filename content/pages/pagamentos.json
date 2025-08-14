@@ -2,5 +2,22 @@
   "title": "Formas de pagamento",
   "meta_title": "Formas de pagamento",
   "meta_description": "Formas de pagamento",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "**Formas de Pagamento**\nNa Banca Catedral, queremos que sua experiência de compra seja a mais simples e segura possível. Por isso, oferecemos as seguintes opções de pagamento para você escolher a que melhor se encaixa às suas necessidades.\n\n**Cartão de Crédito**\nAceitamos as principais bandeiras de cartão de crédito. Você pode parcelar suas compras em até *3x sem juros,* proporcionando mais flexibilidade para suas finanças. É a maneira ideal para você adquirir seus livros, apostilas e colecionáveis favoritos sem pesar no bolso!\n\n**PIX**\nPara quem busca agilidade e praticidade, o PIX é a opção perfeita! Com ele, seu pagamento é confirmado instantaneamente, e seu pedido é processado mais rapidamente. Ao finalizar sua compra, basta escolher essa modalidade e escanear o QR Code gerado na tela para concluir o pagamento em segundos.\n\n***Todas as transações são realizadas em um ambiente 100% seguro. Suas informações financeiras permanecem protegidas e não são armazenadas em nosso site.***",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
