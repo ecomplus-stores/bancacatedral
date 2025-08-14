@@ -1,20 +1,22 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil",
-    "title": ""
+    "text": "",
+    "title": "ENVIO PARA TODO BRASIL",
+    "link": "https://www.bancacatedral.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros em até 3x",
-    "title": ""
+    "text": "",
+    "title": "PARCELE EM ATÉ 3X SEM JUROS ",
+    "link": "https://www.bancacatedral.com.br/pages/pagamentos"
   },
   "exchange": {
     "show": false,
     "text": ""
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "",
     "title": ""
   }
