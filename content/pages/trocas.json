@@ -2,5 +2,22 @@
   "title": "Trocas e devoluções",
   "meta_title": "Trocas e devoluções",
   "meta_description": "Trocas e devoluções",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "**Política de Trocas e Devoluções**\n\n\nNa **Banca Catedral**, nossa prioridade é a sua satisfação. Para que você tenha uma experiência de compra segura e transparente, criamos uma política de trocas e devoluções que respeita integralmente o Código de Defesa do Consumidor.\n\nPara iniciar qualquer processo de troca ou devolução, é fundamental que você entre em contato conosco através do e-mail **[contato@bancacatedral.com.br](**contato@bancacatedral.com.br**)** ou pelo telefone de nossa loja.\n\n1. Direito de Arrependimento (Compras Online)\n   De acordo com o Artigo 49 do Código de Defesa do Consumidor, você pode desistir da compra em até 7 (sete) dias corridos após o recebimento do produto, sem necessidade de justificativa.\n\nPara exercer o seu direito:\n\nPrazo: O contato deve ser feito dentro de 7 dias corridos, contados a partir da data de recebimento do pedido.\n\nCondição do Produto: O produto deve ser devolvido em sua embalagem original, sem sinais de uso ou avarias, acompanhado de todos os acessórios, manuais e da Nota Fiscal original.\n\nProcesso: Após o contato, enviaremos as instruções para a logística reversa (envio do produto de volta para nós), sem custo para você.\n\nReembolso: O valor total da compra (incluindo o frete) será estornado, conforme a forma de pagamento original.\n\n2. Troca por Defeito ou Produto Danificado\n   Se o seu pedido chegar com algum defeito de fabricação ou estiver danificado, nós garantimos a troca.\n\nPrazo: O cliente tem até 30 (trinta) dias corridos após o recebimento para nos notificar sobre o problema.\n\nComprovação: Solicitaremos fotos ou vídeos do produto para avaliação do defeito.\n\nAnálise e Troca: Após a análise, caso seja constatado o defeito, providenciaremos a logística reversa (o frete de retorno é por nossa conta) e o envio de um novo produto idêntico.\n\nOpções: Se o produto não estiver mais disponível em estoque, você poderá optar por um crédito no valor da compra para uso em nosso site, um novo produto de valor similar ou o reembolso integral do valor.\n\n3. Condições Gerais para Troca e Devolução\n   Autorização: Todo e qualquer produto enviado para nós sem prévia comunicação e autorização será recusado.\n\nEmbalagem e Acessórios: Para que a devolução seja aceita, o produto deve ser enviado na embalagem original, com a Nota Fiscal e todos os acessórios, sem indícios de uso indevido.\n\nEstorno de Pagamentos:\n\nCartão de Crédito: O estorno é solicitado à operadora do cartão. O valor pode ser creditado em até duas faturas subsequentes, dependendo da data de fechamento da sua fatura.\n\nPIX ou Transferência: O estorno será realizado via depósito na conta bancária do cliente em até 5 dias úteis.\n\nEstamos à disposição para esclarecer qualquer dúvida e garantir sua total satisfação!",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
