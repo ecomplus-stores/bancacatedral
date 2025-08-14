@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "/*pc*/@media (min-width: 601px){\n.main .top-bar {\n  background-color: #000000;}\n  .top-bar__page-links { color:#fff;}\n  \n  .top-bar__contacts-container{ color:#fff;}\n      .header__logo {\n        max-height: 80px;\n        max-width: 800px;\n    }\n  .main #search-input {\n    border: 1px solid #0d0d0d;\n    border-radius: 30px;\n}\n  .header {\n box-shadow: -6px 15px 14px -9px rgba(0, 0, 0, 0.37); \n}}\n /*mobile*/@media (max-width: 600px) {\n}}\n  \n /*responsivo*/\n}}",
   "html_head": "",
   "html_body": ""
 }
