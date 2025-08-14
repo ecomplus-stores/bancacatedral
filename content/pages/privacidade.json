@@ -2,5 +2,22 @@
   "title": "Política de privacidade",
   "meta_title": "Política de privacidade",
   "meta_description": "Política de privacidade",
-  "body": "Nos comprometemos a preservar os dados de todos os clientes, informações importantes como senha e CPF são criptografadas no momento do cadastro, antes de serem salvas. A finalização da sua compra será realizada em ambiente seguro e nenhuma informação relacionada a cartões de crédito ou contas bancárias será armazenada em nossos bancos de dados. Os dados cadastrais dos clientes não são vendidos, trocados ou divulgados para terceiros, exceto quando essas informações são necessárias para o processo de entrega, para cobrança, ou para participação em promoções solicitadas pelos clientes. Seus dados pessoais são peça fundamental para que seu pedido chegue em segurança, na sua casa, de acordo com nosso prazo de entrega. Nosso site utiliza cookies e informações de sua navegação (sessão do browser) com o objetivo de traçar um perfil do público que visita o site e aperfeiçoar sempre nossos serviços, produtos, conteúdos e garantir as melhores ofertas e promoções para você. Estas informações são registradas automaticamente e serão mantidas em sigilo absoluto. Qualquer alteração sobre nossa política de privacidade será devidamente informada nesta página."
+  "body": "**Política de Privacidade Banca Catedral**\n\n\nNa Banca Catedral, seus dados são armazenados apenas quando você se cadastra ou realiza alguma compra. O uso dessas informações é feito para garantir a melhor experiência e segurança em nosso site, conforme detalhado abaixo.\n\n**Uso dos Seus Dados**\nSeu e-mail é utilizado para comunicações importantes, como informações sobre seu pedido, além de avisos sobre novidades e promoções da Banca Catedral.\n\nCaso você tenha se cadastrado em nossa newsletter ou se inscrito para baixar algum material, seus dados são armazenados em nossa base para comunicações por e-mail, sempre com o objetivo de mantê-lo informado sobre novidades e promoções da Banca Catedral.\n\n**Dados que Coletamos**\nColetamos apenas os dados essenciais para o nosso relacionamento, garantindo o cumprimento de obrigações legais, atendendo às suas expectativas e otimizando sua experiência de compra.\n\n**Acessibilidade dos Dados Pessoais**\nPara sua identificação, podemos coletar ou você poderá nos fornecer seu nome completo, empresa, telefone, cidade, WhatsApp e cargo.\n\nNão solicitamos dados como CPF ou CNPJ em nenhum formulário do site. Essas informações são requeridas somente para transações comerciais (em e-commerce, presencialmente ou via WhatsApp) e são armazenadas em nossa base de dados comercial.\n\nCaso necessário, também coletamos informações técnicas do seu dispositivo, como versão do sistema operacional, geolocalização, IP, registros de interações com a Banca Catedral, telas acessadas, session ID e dados públicos do seu Facebook. Essas informações nos ajudam a ampliar nosso relacionamento, cumprir obrigações legais e prevenir fraudes.\n\n**Canal de Contato**\nEm caso de qualquer dúvida sobre nossa política de privacidade, você pode entrar em contato conosco através do e-mail:[ contato@bancacatedral.com.br](contato@bancacatedral.com.br)\n\nPara mais informações sobre o tratamento de dados sensíveis e o uso de suas informações para cadastro e pagamento em nosso e-commerce, confira nossa Política de Privacidade completa.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
