@@ -1,10 +1,10 @@
 {
   "domain": "bancacatedral.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#363636",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/bancacatedral",
@@ -14,11 +14,11 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Inter",
   "favicon": "/img/uploads/favicon.ico",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#f2f2f4",
+  "secondary_color": "#535353",
   "icon": "/img/uploads/logo-2-.png",
   "store_id": 51592,
   "description": "Apostilas para concursos públicos",
