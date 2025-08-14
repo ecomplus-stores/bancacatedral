@@ -2,5 +2,22 @@
   "title": "Condições de entrega",
   "meta_title": "Condições de entrega",
   "meta_description": "Condições de entrega",
-  "body": "<!--StartFragment-->\n\nEntregas\n\nPolíticas de Entrega\n\nEnvio\n\nNossas Entregas são Feitas pelos Correios\n\nSedex normal\n\nPrazo de envio : até 1 dia útil após a confirmação do pagamento.\n\nPrazo de entrega dos Correios : Capital 3 a 5 dias após o envio\n\nPAC Prazo Estimado\n\nPrazo Estimado de Entrega dos Correios : 7 a 10 dias úteis após o envio.\n\nPara algumas cidades do interior, o prazo de entrega pode chegar a 15 dias úteis após o envio.\n\nSedex 10 (Apenas para cidades atendidas)\n\nPrazo de Envio: no máximo 1 dia útil após a confirmação.\n\nPrazo de Entrega: dia útil seguinte à postagem.\n\nDisponível somente para algumas cidades.\n\nPara atrasos na Entrega por parte dos CORREIOS será aberto um chamado e somente após a conclusão do mesmo será feito o reenvio ou a devolução do valor pago.\n\nApós enviado, todos os pedidos recebem o número de envio para rastreamento que é informado por e-mail e pode ser consultado através do login na Central do Cliente.\n\nOBS: Endereço cadastrado errado pelo cliente é responsabilidade do mesmo, assim como ausência no recebimento do produto.\n\n<!--EndFragment-->"
+  "body": "**Envio e Entrega - Receba seu pedido em todo o Brasil!**\n\nNós da Banca Catedral nos dedicamos para que sua compra chegue até você da maneira mais rápida e segura possível. Para isso, utilizamos os serviços de envio dos Correios.\n\n**Prazos e Modalidades de Envio**\nSeu pedido é postado em até 1 dia útil após a confirmação do pagamento. Os prazos de entrega abaixo são estimados pelos Correios e válidos a partir da data de postagem.\n\n**SEDEX Normal:**\n\nCapital: Prazo estimado de 3 a 5 dias úteis.\n\nInterior: Prazo estimado de 5 a 10 dias úteis.\n\n**PAC (Prazo Estimado):**\n\nPrazo estimado de 7 a 10 dias úteis.\n\nPara algumas cidades do interior, o prazo pode ser estendido para até 15 dias úteis.\n\n**SEDEX 10:**\n\nModalidade de entrega no dia útil seguinte à postagem.\n\nDisponível apenas para cidades atendidas por este serviço.\n\n**Rastreamento do Pedido**\nApós o envio, você receberá um código de rastreamento por e-mail, permitindo que você acompanhe o status da sua entrega diretamente no site dos Correios ou em sua Central do Cliente.\n\n**Informações Importantes**\n***Atrasos:*** Em caso de atraso na entrega por parte dos Correios, abriremos um chamado oficial. O reenvio do pedido ou o estorno do valor pago só será realizado após a conclusão da investigação.\n\n***Responsabilidade do Cliente:*** É de responsabilidade do cliente garantir que o endereço de entrega esteja correto e que haja alguém para receber o produto no local. Em casos de endereço incorreto ou ausência de recebedor, os custos de um novo envio serão de responsabilidade do comprador.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
