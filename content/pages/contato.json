@@ -2,5 +2,22 @@
   "title": "Contato",
   "meta_title": "Contato",
   "meta_description": "Contato",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "**Nossa História**\nFundada em 22 de janeiro de 1994, a **Banca Catedra**l é um pedaço da história de **Florianópolis**. Começamos com a missão de ser mais do que uma banca de revistas: queríamos ser um ponto de encontro, onde a informação, a cultura e a tradição se unem.\n\nCom mais de duas décadas de história, hoje mantemos viva essa tradição com **quatro lojas físicas** e uma **loja virtual**. Em cada uma delas, você encontra a mesma dedicação em oferecer uma vasta seleção de revistas, jornais, livros e apostilas para estudos. Além disso, nos orgulhamos de ser um local onde a tradição da tabacaria e a memória da nossa cidade, através dos souvenirs, se encontram.\n\nSeja para ler as últimas notícias, se preparar para um concurso ou levar uma lembrança de **Floripa**, a **Banca Catedral** está de portas abertas esperando por você.\n\n\n\n**Venha nos visitar em uma de nossas lojas:**\n\n**Banca Catedral Apostilas para Concursos:**\nPça XV de Novembro, s/n - Centro\nFlorianópolis, SC\nCEP: 88010-400\n\n**Catedral Revistas & Tabacos:**\nRodovia SC-401, 3116 - Saco Grande\nFlorianópolis, SC\nCEP: 88032-005\n\n**Catedral Revistaria (Giassi Supermercados):**\nAvenida Irineu Bornhausen, 113 - Campinas\nSão José, SC",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
