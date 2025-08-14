@@ -1,27 +1,42 @@
 {
   "categories_list": {
     "featured": [
-      "/apostila-impressa/?Apostila Impressa"
+      "/apostila-impressa/?Apostila Impressa",
+      "/apostila-digital/?Apostila Digital",
+      "/livros-para-vestibulares/?Livros P/ Vestibulares",
+      "/livros-para-concursos/?Livros P/ Concursos"
     ],
-    "random": 10,
+    "random": 4,
     "full_width": true
   },
-  "menu_all_departments": false,
+  "menu_all_departments": true,
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "",
-    "link": "/promotion"
+    "link": ""
   },
-  "alphabetical_order_submenu": false,
-  "name_all_departments": "",
+  "alphabetical_order_submenu": true,
+  "name_all_departments": "Ver Tudo ",
   "search_input": true,
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "full_width_submenu": false,
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "Login",
+        "link": "https://www.bancacatedral.com.br/app/#/account/"
+      },
+      {
+        "title": "Ver Pedidos",
+        "link": "https://www.bancacatedral.com.br/app/#/account/orders"
+      },
+      {
+        "link": "https://bancacatedral.com.br/pages/faq",
+        "title": "Como Comprar"
+      },
+      {
+        "title": "Lojas Físicas",
+        "link": "https://bancacatedral.com.br/pages/contato"
       }
     ],
     "phone_wpp": true,
