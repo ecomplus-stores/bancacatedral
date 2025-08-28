@@ -4,10 +4,9 @@
       "/apostila-impressa/?Apostila Impressa",
       "/apostila-digital/?Apostila Digital",
       "/livros-para-vestibulares/?Livros P/ Vestibulares",
-      "/livros-para-concursos/?Livros P/ Concursos",
-      "/livros-diversos?Livros Diversos"
+      "/livros-para-concursos/?Livros P/ Concursos"
     ],
-    "random": 5,
+    "random": 4,
     "full_width": true
   },
   "menu_all_departments": false,
