@@ -1,0 +1,28 @@
+{
+  "title": "OFERTAS",
+  "body": "**MEGA PROMO ATÉ 50% DESCONTO**",
+  "meta_title": "**MEGA PROMO ATÉ 50% DESCONTO**",
+  "meta_description": "**MEGA PROMO ATÉ 50% DESCONTO**",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
+}
