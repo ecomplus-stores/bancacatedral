@@ -1,9 +1,11 @@
 {
   "sort_categories": [
+    "mega-promo-50-desconto/",
     "apostila-impressa/",
     "apostila-digital/",
     "livros-para-vestibulares/",
-    "livros-para-concursos/"
+    "livros-para-concursos/",
+    "livros-diversos"
   ],
   "alphabetical_order": true,
   "phone_wpp": true,
