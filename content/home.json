@@ -8,14 +8,28 @@
       "full_width": true,
       "slides": [
         {
-          "start": "",
+          "start": "2025-09-04T19:50:46.361Z",
           "end": "",
-          "img": "/img/uploads/fotos-lojas.png"
+          "img": "/img/uploads/slide_desconto_set.png",
+          "link": "https://bancacatedral.com.br/pages/ofertas",
+          "mobile_img": "/img/uploads/slide_desconto_set-m.png"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/prefeituras.png",
+          "link": "https://bancacatedral.com.br/apostilas-prefeituras"
         },
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/azul.png"
+          "img": "/img/uploads/carreiras.png",
+          "link": "https://bancacatedral.com.br/apostilas"
+        },
+        {
+          "img": "/img/uploads/vestibulares.png",
+          "link": "https://bancacatedral.com.br/pages/ofertas#a-apostilas-vestibulares-enem"
         }
       ]
     },
@@ -28,6 +42,46 @@
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/lojas-fisicas-banca-catedral.png",
+      "link": "https://bancacatedral.com.br/pages/contato",
+      "mobile_img": "/img/uploads/lojas-fisicas-banca-catedral-m.png"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6806b1a2ef51eb1c90d83c4e:categories:Livros P/ Vestibulares:/livros-para-vestibulares/",
+      "sort": "views",
+      "link": "https://bancacatedral.com.br/livros-para-vestibulares/"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/livros-vestibulares.png",
+          "link": "https://bancacatedral.com.br/livros-para-vestibulares/"
+        },
+        {
+          "img": "/img/uploads/livros-concursos.png",
+          "link": "https://bancacatedral.com.br/livros-para-concursos/"
+        },
+        {
+          "img": "/img/uploads/livros-diversos.png",
+          "link": "https://bancacatedral.com.br/livros-diversos"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "headless": true
     },
     {
       "type": "info-bar",
