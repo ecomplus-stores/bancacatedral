@@ -1,9 +1,8 @@
 {
   "sort_categories": [
-    "apostila-impressa/",
-    "apostila-digital/",
-    "livros-para-vestibulares/",
+    "apostilas",
     "livros-para-concursos/",
+    "livros-para-vestibulares/",
     "livros-diversos"
   ],
   "alphabetical_order": true,
