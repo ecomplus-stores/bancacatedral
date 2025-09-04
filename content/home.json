@@ -13,6 +13,13 @@
           "img": "/img/uploads/slide_desconto_set.png",
           "link": "https://bancacatedral.com.br/pages/ofertas",
           "mobile_img": "/img/uploads/slide_desconto_set-m.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/slide-lojas-set.png",
+          "mobile_img": "/img/uploads/slide-lojas-set-m.png",
+          "link": "https://bancacatedral.com.br/pages/contato"
         }
       ]
     },
