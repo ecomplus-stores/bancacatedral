@@ -1,10 +1,10 @@
 {
   "categories_list": {
     "featured": [
-      "/apostila-impressa/?Apostila Impressa",
-      "/apostila-digital/?Apostila Digital",
+      "/apostilas?Apostilas",
+      "/livros-para-concursos/?Livros P/ Concursos",
       "/livros-para-vestibulares/?Livros P/ Vestibulares",
-      "/livros-para-concursos/?Livros P/ Concursos"
+      "/livros-diversos?Livros Diversos"
     ],
     "random": 4,
     "full_width": true
