@@ -3308,12 +3308,6 @@
     </url>
   
     <url>
-      <loc>https://www.bancacatedral.com.br/concursos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.bancacatedral.com.br/livros-para-vestibulares/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -3572,6 +3566,12 @@
     </url>
   
     <url>
+      <loc>https://www.bancacatedral.com.br/concursos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.bancacatedral.com.br/marca/editora-podium</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -3698,15 +3698,15 @@
     </url>
   
     <url>
-      <loc>https://www.bancacatedral.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.bancacatedral.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.bancacatedral.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
