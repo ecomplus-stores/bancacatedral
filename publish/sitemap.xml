@@ -260,12 +260,6 @@
     </url>
   
     <url>
-      <loc>https://www.bancacatedral.com.br/concursos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.bancacatedral.com.br/apostila-ebserh-enfermagem-2025-editora-solucao</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -3569,6 +3563,12 @@
       <loc>https://www.bancacatedral.com.br/apostila-act-prefeitura-sao-jose-auxiliar-sala-2025-editora-podium-c353</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.bancacatedral.com.br/concursos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
