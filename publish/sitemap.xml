@@ -3704,13 +3704,13 @@
     </url>
   
     <url>
-      <loc>https://www.bancacatedral.com.br/pages/ofertas</loc>
+      <loc>https://www.bancacatedral.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.bancacatedral.com.br/pages/faq</loc>
+      <loc>https://www.bancacatedral.com.br/pages/ofertas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
