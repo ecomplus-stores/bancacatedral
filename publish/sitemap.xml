@@ -3410,78 +3410,6 @@
     </url>
   
     <url>
-      <loc>https://www.bancacatedral.com.br/marca/editora-podium</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.bancacatedral.com.br/marca/editora-nova</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.bancacatedral.com.br/marca/editora-opcao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.bancacatedral.com.br/marca/editora-abril</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.bancacatedral.com.br/marca/editora-solucao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.bancacatedral.com.br/marca/claudia-regina-da-silveira</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.bancacatedral.com.br/marca/professor-ricardinho</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.bancacatedral.com.br/marca/professor-fogaca</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.bancacatedral.com.br/marca/professor-francis-isoton</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.bancacatedral.com.br/marca/editora-vestcon</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.bancacatedral.com.br/marca/professor-wilson-fernandes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.bancacatedral.com.br/marca/editora-barros-fischer</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.bancacatedral.com.br/livros-para-vestibulares/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -3741,6 +3669,78 @@
   
     <url>
       <loc>https://www.bancacatedral.com.br/concursos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.bancacatedral.com.br/marca/editora-podium</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.bancacatedral.com.br/marca/editora-nova</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.bancacatedral.com.br/marca/editora-opcao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.bancacatedral.com.br/marca/editora-abril</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.bancacatedral.com.br/marca/editora-solucao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.bancacatedral.com.br/marca/claudia-regina-da-silveira</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.bancacatedral.com.br/marca/professor-ricardinho</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.bancacatedral.com.br/marca/professor-fogaca</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.bancacatedral.com.br/marca/professor-francis-isoton</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.bancacatedral.com.br/marca/editora-vestcon</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.bancacatedral.com.br/marca/professor-wilson-fernandes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.bancacatedral.com.br/marca/editora-barros-fischer</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
