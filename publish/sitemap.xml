@@ -3734,6 +3734,12 @@
     </url>
   
     <url>
+      <loc>https://www.bancacatedral.com.br/concursos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.bancacatedral.com.br/marca/editora-podium</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -3801,12 +3807,6 @@
   
     <url>
       <loc>https://www.bancacatedral.com.br/marca/editora-barros-fischer</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.bancacatedral.com.br/concursos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
