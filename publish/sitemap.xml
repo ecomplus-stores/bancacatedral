@@ -3812,12 +3812,6 @@
     </url>
   
     <url>
-      <loc>https://www.bancacatedral.com.br/pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.bancacatedral.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -3831,6 +3825,12 @@
   
     <url>
       <loc>https://www.bancacatedral.com.br/pages/ofertas</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.bancacatedral.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
