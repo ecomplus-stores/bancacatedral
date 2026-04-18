@@ -3830,12 +3830,6 @@
     </url>
   
     <url>
-      <loc>https://www.bancacatedral.com.br/pages/contato</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.bancacatedral.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -3878,6 +3872,12 @@
     </url>
   
     <url>
+      <loc>https://www.bancacatedral.com.br/pages/contato</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.bancacatedral.com.br/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -3890,15 +3890,15 @@
     </url>
   
     <url>
-      <loc>https://www.bancacatedral.com.br/search</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.bancacatedral.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.bancacatedral.com.br/search</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
@@ -3908,15 +3908,15 @@
     </url>
   
     <url>
-      <loc>https://www.bancacatedral.com.br/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://www.bancacatedral.com.br/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.bancacatedral.com.br/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
