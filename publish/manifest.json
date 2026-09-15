@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.8a5494686f2225755afc3e6e6b227a80.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.e58fceb821f1358ae6a61490e0adcb96.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.9a7e7da285f8a3c43f0e6189c929b198.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.71d4e25228547cdbaa7773b00ed18f6a.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.c567d58c0521e038414e426ead845cb9.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Banca Catedral | Sua Referência em Apostilas e Livros para Concursos",
+  "short_name": "Banca Catedral",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Banca Catedral: o maior acervo online de apostilas e livros para concursos, vestibulares e OAB. Encontre materiais das melhores editoras com entrega para todo o Brasil. Compre agora!",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
