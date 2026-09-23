@@ -260,6 +260,12 @@
     </url>
   
     <url>
+      <loc>https://www.bancacatedral.com.br/concursos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.bancacatedral.com.br/apostila-ebserh-enfermagem-2025-editora-solucao</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -3740,12 +3746,6 @@
     </url>
   
     <url>
-      <loc>https://www.bancacatedral.com.br/concursos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.bancacatedral.com.br/marca/editora-podium</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -3890,13 +3890,13 @@
     </url>
   
     <url>
-      <loc>https://www.bancacatedral.com.br/app/index</loc>
+      <loc>https://www.bancacatedral.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.bancacatedral.com.br/admin/index</loc>
+      <loc>https://www.bancacatedral.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
